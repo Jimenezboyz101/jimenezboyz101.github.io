@@ -7,6 +7,7 @@ http://www.oswaldojimenez.com
 [LinkedIn](http://www.linkedin.com/in/ojimenez)
 
 > Is mayonnaise an instrument?
+
 ![image](https://i.ytimg.com/vi/e3fS1SOwLWU/hqdefault.jpg)
 
 # Summary
@@ -43,4 +44,5 @@ Summary of your role
 
 
 [University of Washington]:(http://www.uw.edu)
+
 
